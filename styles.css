@@ -8,7 +8,7 @@
     width: 100%;
     min-height: 100vh;
     background-color: green;
-    background-image: url (<iframe src="https://giphy.com/embed/VuehuL4fMHLgs" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/radar-VuehuL4fMHLgs">via GIPHY</a></p>);
+    background-image: url (https://giphy.com/gifs/radar-VuehuL4fMHLgs);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
