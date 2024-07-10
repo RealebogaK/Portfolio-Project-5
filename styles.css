@@ -7,11 +7,13 @@
 .container{
     width: 100%;
     min-height: 100vh;
-    background-image: linear-gradient(rgba(9, 0, 77, 0.65),rgba(9, 0, 77, 0.65)), url ("https://giphy.com/embed/VuehuL4fMHLgs""giphy-embed");
-        href="https://giphy.com/gifs/radar-VuehuL4fMHLgs"
+    background-color: green;
+    background-image: url (<iframe src="https://giphy.com/embed/VuehuL4fMHLgs" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/radar-VuehuL4fMHLgs">via GIPHY</a></p>);
     background-size: cover;
     background-position: center;
-    padding: 10px 8%;
+    background-repeat: no-repeat;
+    color: #fff;
+    padding: 0 8%;
 }
 nav{
     width: 100%;
